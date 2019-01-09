@@ -102,7 +102,7 @@ public class GameManager : MonoBehaviour
     public bool multiplayer;
     public int highScore;
     public string highScoreName;
-    public GameSettings optionSettings;
+    //public GameSettings optionSettings;
     public GameObject[] players;
     private TankData[] playerData;
     public GameObject[] enemies;
